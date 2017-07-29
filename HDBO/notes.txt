@@ -11,6 +11,7 @@ process outline:
 - ...probably different draws+updates for different game states. that'd be a good start. consider overlays & the ability to draw multiple states together
   - 1 canvas for each?
 	- autosave format is also very important. will differ depending on game state
+	- states should be a stack?
 
 object architecture:
 - game

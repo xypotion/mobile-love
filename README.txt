@@ -1,7 +1,7 @@
 in case you forget where the rest of this android+love dev stuff is:
-/Users/maxwunderlich/dev/Repos/love-android-sdl2/AndroidManifest.xml
-/Users/maxwunderlich/dev/Repos/love-android-sdl2/src/love/xypotion/mobiletest/MobileTest.java
-/Users/maxwunderlich/dev/Repos/love-android-sdl2/src/org/love2d/android/GameActivity.java
+~/dev/Repos/love-android-sdl2/AndroidManifest.xml
+~/dev/Repos/love-android-sdl2/src/love/xypotion/mobiletest/MobileTest.java
+~/dev/Repos/love-android-sdl2/src/org/love2d/android/GameActivity.java
 
 and...
 
