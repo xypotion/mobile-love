@@ -1,0 +1,40 @@
+Heart's Desire: Black Ocean (HDBO) outline/brainstorm
+
+game states:
+- main menu
+- map/level select
+- stage
+- status screen
+- powers selection
+
+process outline:
+- ...probably different draws+updates for different game states. that'd be a good start. consider overlays & the ability to draw multiple states together
+  - 1 canvas for each?
+	- autosave format is also very important. will differ depending on game state
+
+object architecture:
+- game
+  - stages array
+	  - unlocked
+		- beaten
+  - powers = bool array
+	- current powers = power array
+- enemy
+  - HP
+	- strength
+	- script?
+- stage
+  - enemies array
+	- reward
+	- graphics...
+	  - surface = bool
+		- floor = bool
+		- water color?
+- power
+  - passive or active? unsure
+	
+powers brainstorm:
+- nudibranch: special attacks do 20% more damage if on seafloor
+- urchin: attackers take damage if on seafloor
+- jellyfish: attackers take damage if in open ocean
+- pistol shrimp: huge damage (1 target), huge cooldown
