@@ -1,5 +1,5 @@
 in case you forget where the rest of this android+love dev stuff is:
-~/dev/Repos/love-android-sdl2/AndroidManifest.xml
+~/dev/Repos/love-android-sdl2/AndroidManifest.xml <- compare versions of this file to see what needs to be changed (it's just a couple fields)
 ~/dev/Repos/love-android-sdl2/src/love/xypotion/mobiletest/MobileTest.java
 ~/dev/Repos/love-android-sdl2/src/org/love2d/android/GameActivity.java
 
